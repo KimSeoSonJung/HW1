@@ -20,10 +20,10 @@ void main()
 		{
 			for (i = 1; i <= a - n; i++)
 			{
-				printf(" ");
+				printf("  ");
 			}
 
-			for (j = 1; j <= 2 ¢¾ n - 1; j++)
+			for (j = 1; j <= 2 * n - 1; j++)
 			{
 				printf("¢¾");
 			}
@@ -74,10 +74,10 @@ void main()
 						{
 							for (i = 1; i <= a - n; i++)
 							{
-								printf(" ");
+								printf("  ");
 							}
 
-							for (j = 1; j <= 2 ¢¾ n - 1; j++)
+							for (j = 1; j <= 2 * n - 1; j++)
 							{
 								printf("¢¾");
 							}
@@ -92,7 +92,7 @@ void main()
 						{
 							for (i = 1; i <= a - n; i++)
 							{
-								printf(" ");
+								printf("  ");
 							}
 
 							for (j = 1; j <= n; j++)
@@ -107,7 +107,7 @@ void main()
 						{
 							for (i = 0; i <= a - n; i++)
 							{
-								printf(" ");
+								printf("  ");
 							}
 
 							for (j = a - 1; j > a - n; j--)
@@ -125,10 +125,10 @@ void main()
 						{
 							for (i = 1; i <= a - n; i++)
 							{
-								printf(" ");
+								printf("  ");
 							}
 
-							for (j = 1; j <= 2 ¢¾ n - 1; j++)
+							for (j = 1; j <= 2 * n - 1; j++)
 							{
 								printf("¢¾");
 							}
