@@ -25,7 +25,7 @@ void main()
 
 			for (j = 1; j <= 2 * n - 1; j++)
 			{
-				printf("¢¾");
+				printf("¡ß");
 			}
 			printf("\n");
 
@@ -52,7 +52,7 @@ void main()
 						{
 							for (i = 1; i < a - n; i++)
 							{
-								printf("¢¾");
+								printf("¡ß");
 							}
 							printf("\n");
 						}
@@ -61,7 +61,7 @@ void main()
 						{
 							for (j = a; j > a - n; j--)
 							{
-								printf("¢¾");
+								printf("¡ß");
 							}
 							printf("\n");
 						}
@@ -79,7 +79,7 @@ void main()
 
 							for (j = 1; j <= 2 * n - 1; j++)
 							{
-								printf("¢¾");
+								printf("¡ß");
 							}
 							printf("\n");
 						}
@@ -97,7 +97,7 @@ void main()
 
 							for (j = 1; j <= n; j++)
 							{
-								printf("¢¾");
+								printf("¡ß");
 							}
 							printf("\n");
 
@@ -112,7 +112,7 @@ void main()
 
 							for (j = a - 1; j > a - n; j--)
 							{
-								printf("¢¾");
+								printf("¡ß");
 							}
 							printf("\n");
 						}
@@ -130,7 +130,7 @@ void main()
 
 							for (j = 1; j <= 2 * n - 1; j++)
 							{
-								printf("¢¾");
+								printf("¡ß");
 							}
 							printf("\n");
 						}
